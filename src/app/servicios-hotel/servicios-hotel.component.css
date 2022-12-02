@@ -1,0 +1,20 @@
+table {
+  width: 100%;
+}
+.titulo{
+  color: #005a87;
+    font-size: 30px;
+    line-height: 34px;
+    font-weight: 500;
+}
+
+.carrusel{
+  
+  height: 200px;
+
+}
+.titulos{
+  text-align: center;
+  
+}
+

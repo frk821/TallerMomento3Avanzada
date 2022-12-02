@@ -1,0 +1,24 @@
+
+.caja-imagen {
+  width: 30%;
+  margin-right: 50px;
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.imagen-uno {
+  background-image: url(../../assets/img/sanRafaelHotel.jpg);
+}
+
+.caja-imagen .noticias {
+  width: 100%;
+  height: 100%;
+}
+
+.zoom{
+  transition: transform .5s;
+}
+
+.zoom:hover{
+  transform: scale(1.1);
+}
